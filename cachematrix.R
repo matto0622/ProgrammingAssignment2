@@ -1,6 +1,7 @@
 ##Contains 2 functions makeCacheMatrix and cacheSolve
 ##  makeCacheMatrix enables the caching of the inverse of a matrix
 ##  cacheSolve will cache the inverse of a matrix
+##   Written by Matthew Walters on 23 Aug 2015
 
 ## makeCacheMatrix takes a matrix input and creates a vector with the following attributes
 ##  get() will get the input matrix
